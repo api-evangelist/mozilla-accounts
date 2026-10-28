@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mozilla accounts is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://accounts.firefox.com/
+Mozilla Accounts (formerly Firefox Accounts) is Mozilla’s unified authentication and user profile service that powers Firefox Sync, Pocket, and other Mozilla products. It provides secure sign‑in, account recovery, and profile management via a set of public APIs. The service is open‑source, with its code hosted on GitHub, and its documentation is available in the repository and on Mozilla’s developer site.
+
+**Areas:** Company · Authentication · Identity · Mozilla · OpenSource
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://accounts.firefox.com/)
+- [Documentation](https://github.com/mozilla/fxa/tree/main/docs)
+- [Getting started](https://github.com/mozilla/fxa#readme)
+- [Support](https://support.mozilla.org/en-US/products/firefox/accounts)
+- [Security](https://www.mozilla.org/en-US/security/bug-bounty/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mozilla-accounts/](https://apis.io/providers/mozilla-accounts/).
